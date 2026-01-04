@@ -40,14 +40,6 @@ Core strengths: enterprise migrations, cloud-scale data architecture, GenAI/LLM 
 
 (Full career timeline and role details available on LinkedIn.)
 
----
-
-## Featured Projects
-I can populate these automatically from your repos — tell me to "fetch repos" or paste the repo names and short descriptions. For now, placeholders:
-
-- [project-repo-1](https://github.com/sendtoshailesh/project-repo-1) — Short description of project 1 and impact.
-- [project-repo-2](https://github.com/sendtoshailesh/project-repo-2) — Short description of project 2 and impact.
-- [project-repo-3](https://github.com/sendtoshailesh/project-repo-3) — Short description of project 3 and impact.
 
 ---
 
