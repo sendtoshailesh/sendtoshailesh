@@ -70,7 +70,7 @@ Certifications: AWS Solutions Architect (Pro) · Financial Services L100 · AWS 
 ## Contact & Availability
 - Email: sendtoshailesh@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shaileshmishra1/  
-- Portfolio / Blog: (add links)
+- Portfolio / Blog: https://medium.com/@shaileshkumarmishra
 
 Open to: collaborations on AI/Data/Cloud, advisory/mentoring, and speaking engagements.
 
