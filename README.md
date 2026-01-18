@@ -1,6 +1,6 @@
 # Shailesh Kumar Mishra 👋
-**Lead Specialist — AI, Data & Cloud Transformation**  
-Microsoft | ex‑AWS | ex‑Google 
+**Chief Dev Advisor at Microsoft — AI, Data & Cloud Transformation**  
+| ex‑AWS | ex‑Google 
 Hyderabad, Telangana, India
 
 ✉️ sendtoshailesh@gmail.com  
