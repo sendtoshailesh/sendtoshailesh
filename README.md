@@ -1,5 +1,5 @@
 # Shailesh Kumar Mishra 👋
-** AI, Data & Cloud Transformation**  
+** AI, Data & Cloud Transformation at Microsoft**  
 | ex‑AWS | ex‑Google 
 Hyderabad, Telangana, India
 
