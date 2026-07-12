@@ -1,5 +1,5 @@
 # Shailesh Kumar Mishra 👋
-**Chief Dev Advisor at Microsoft — AI, Data & Cloud Transformation**  
+** AI, Data & Cloud Transformation**  
 | ex‑AWS | ex‑Google 
 Hyderabad, Telangana, India
 
